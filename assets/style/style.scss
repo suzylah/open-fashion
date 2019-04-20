@@ -1,0 +1,66 @@
+@import "minima";
+
+$base-font-family: Roboto, Helvetica, Arial, sans-serif !default;
+$base-font-size:   16px !default;
+$base-font-weight: 400 !default;
+$small-font-size:  $base-font-size * 0.875 !default;
+$base-line-height: 1.5 !default;
+
+$spacing-unit:     30px !default;
+
+$text-color:       #000 !default;
+$background-color: #E1E2E1 !default;
+$brand-color:      #2a7ae2 !default;
+
+$grey-color:       #828282 !default;
+$grey-color-light: lighten($grey-color, 40%) !default;
+$grey-color-dark:  darken($grey-color, 25%) !default;
+$orange-color:     #f66a0a !default;
+$table-text-align: left !default;
+
+$primary: #4bb5ab;
+$primary-light:#80e8dd;
+$primary-dark:#00857c;
+
+$secondary:#FFCDD2;
+$secondary-light: #fff;
+$secondary-dark:#cb9ca1;
+
+// Width of the content area
+$content-width:    800px !default;
+
+$on-palm:          600px !default;
+$on-laptop:        800px !default;
+
+$on-medium:        $on-palm !default;
+$on-large:         $on-laptop !default;
+
+h1, h2, h3, .site-title, .site-title:visited {
+	text-transform:uppercase;
+	letter-spacing: 1px;
+	font-family:"Roboto Mono", monospace;
+	color:#000;
+}
+
+a, a:visited {color:#000;}
+
+.site-header {
+	background: $primary;
+	border-top-color: $primary-dark;
+}
+
+.site-footer {
+	background: $primary-light;
+}
+
+.footer-col-wrapper {color:#000;}
+
+.post-list li {
+	background: #fff;
+	padding: 1rem 1.4rem;
+}
+
+.alert {background:$primary;padding:1rem 1.4rem;}
+
+
+

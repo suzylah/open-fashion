@@ -5,6 +5,6 @@ permalink: /about/
 ---
 
 A collection of open source fashion resources.
-Initiated by Cecilia Palmér.
+Initiated and maintained by Cecilia Palmér.
 
 Contributions are welcome.
