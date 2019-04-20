@@ -75,10 +75,12 @@ a, a:visited {color:#000;}
 .site-header {
 	background: $primary;
 	border-top-color: $primary-dark;
+	border-bottom:0;
 }
 
 .site-footer {
 	background: $primary-light;
+	border-top:0;
 }
 
 .footer-col-wrapper {color:#000;}

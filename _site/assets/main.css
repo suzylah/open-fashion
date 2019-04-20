@@ -199,9 +199,9 @@ h1, h2, h3, .site-title, .site-title:visited { text-transform: uppercase; letter
 
 a, a:visited { color: #000; }
 
-.site-header { background: #4bb5ab; border-top-color: #00857c; }
+.site-header { background: #4bb5ab; border-top-color: #00857c; border-bottom: 0; }
 
-.site-footer { background: #80e8dd; }
+.site-footer { background: #80e8dd; border-top: 0; }
 
 .footer-col-wrapper { color: #000; }
 
