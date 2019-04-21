@@ -4,16 +4,19 @@ title: About
 permalink: /about/
 ---
 
-## About this site
 
 This site is a collection of open source fashion resources. It presents a mix of past collaborations and own project, and resources collected during the years working with open approaches and open source philosophy in fashion, textiles & crafts. The project is available as a public repository on GitHub, where it is also hosted. GitHub is a web-based hosting service for version control using Git. It is mostly used for computer code and by programmers.
 
 Contributions are welcome!
 
-## *What is Open Source fashion?*
+
+
+## What is Open Source fashion?
 
 
 TODO.
+
+
 
 ## About me
 

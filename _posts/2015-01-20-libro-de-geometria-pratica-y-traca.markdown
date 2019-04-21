@@ -1,17 +1,21 @@
 ---
 layout: post
 title:  "Libro de Geometría, Práctica y Traça,1589"
-date:   2015-01-20 15:37:32 +0200
+date:   2011-01-20 15:37:32 +0200
+featured-image: patterns/juan-de-alcega/SH812.jpeg
+postclass: postHeight2
 categories: resources
 ---
+
+The book Libro de Geometría, Práctica y Traça, written in 1589 by Juan de Alcega in Spanish shows pattern cutting from the 16th century. Public Domain.
+
+<!--more--> 
+
+</div>
 
 <div class="grid" markdown="1">
 ![Juan de Alcega - Libro de Geometría, Práctica y Traça](/assets/patterns/juan-de-alcega/SH812.jpeg)
 
-The book Libro de Geometría, Práctica y Traça, written in 1589 by Juan de Alcega in Spanish shows pattern cutting from the 16th century. Public Domain.
-</div>
-
-<div class="grid" markdown="1">
 ![Juan de Alcega - Libro de Geometría, Práctica y Traça](/assets/patterns/juan-de-alcega/SH813.jpeg)
 
 ![Juan de Alcega - Libro de Geometría, Práctica y Traça](/assets/patterns/juan-de-alcega/SH814.jpeg)
