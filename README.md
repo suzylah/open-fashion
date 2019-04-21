@@ -4,7 +4,7 @@
 
 [Opensource.Fashion](https://opensource.fashion)
 
-![visual](/open-fashion-visual.png)
+![visual](/assets/open-fashion-visual.png)
 
 
 ## Contribution
