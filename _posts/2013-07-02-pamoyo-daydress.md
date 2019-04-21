@@ -7,4 +7,4 @@ categories: patterns
 
 A pattern from Pamoyo
 
-[Download svg](/patterns/pamoyo-daydress/pamoyo_daydress.svg)
+[Download svg](/assets/patterns/pamoyo-daydress/pamoyo_daydress.svg)

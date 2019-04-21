@@ -16,9 +16,12 @@ layout: default
       <div class="feature"><img src="/assets/open-fashion-visual.png" /></div>
       {%- for post in site.posts -%}
       <div class="item _ {%- if post.postclass -%} {{ post.postclass }} {%- endif -%}">
-        <div class="thumbnail"><img src="/assets/open-fashion-visual.png" /></div>
+        {%- if post.featured-image -%}
+        <div class="thumbnail">
+        {% include featured-image.html image=post.featured-image alt=post.featured-image-alt %}
+      </div>{%- endif -%}
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
+        
         <h3>
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
@@ -27,6 +30,8 @@ layout: default
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
         {%- endif -%}
+        <!--<span class="post-meta">{{ post.date | date: date_format }}</span>-->
+        <span class="post-meta">{{ post.categories }}</span>
       </div>
       {%- endfor -%}
     </div>

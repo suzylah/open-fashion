@@ -197,7 +197,7 @@ table td { border: 1px solid #e8e8e8; }
 .highlight .il { color: #099; }
 
 /*theme styles*/
-h1, h2, h3, .site-title, .site-title:visited { text-transform: uppercase; letter-spacing: 2px; font-family: "Roboto Mono", monospace; color: #000; }
+h1, h2, h3, .site-title, .site-title:visited { text-transform: uppercase; letter-spacing: 1px; font-family: "Roboto Mono", monospace; color: #000; }
 
 a, a:visited { color: #000; }
 
@@ -209,10 +209,19 @@ a, a:visited { color: #000; }
 
 .grid { display: grid; grid-gap: 30px; }
 
-.item { background: #fff; padding: 1rem 1.4rem; }
+.item { background: #fff; padding: 1rem 1.4rem; position: relative; }
 
-.thumbnail { margin: -1.4rem; margin-bottom: 1rem; }
+.thumbnail { margin: -1rem -1.4rem; margin-bottom: 1rem; }
 
+.thumbnail img { width: 100%; }
+
+.post-meta { color: #000; background: #cb9ca1; padding: .25rem .4em; position: absolute; bottom: 1rem; right: 1.4em; }
+
+@media screen and (max-width: 600px) { .site-title { font-size: 18px; }
+  .site-nav { width: 56px; height: 56px; margin-right: -1em; background: #FFCDD2; border-radius: 0; border: 0 none; position: static !important; }
+  .site-nav .menu-icon { width: 54px; padding-top: 19px; cursor: pointer; }
+  .site-nav .menu-icon > svg { fill: #000; }
+  .trigger { position: absolute; top: 56px; background: #cb9ca1; width: 100vw; left: 0; padding: 5px 0; } }
 @media screen and (min-width: 768px) { .grid { grid-template-columns: repeat(3, 1fr); }
   .feature { grid-column: 1 / span 2; }
   ._postHeight2 { grid-row: auto / span 2; } }

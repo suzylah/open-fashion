@@ -10,4 +10,4 @@ A pattern from Pamoyo
 A collab kids collection with Mika Modiggård
 
 
-[Download svg](/patterns/pamoyo-chillpants/kids_chillpants.svg)
+[Download svg](/assets/patterns/pamoyo-chillpants/kids_chillpants.svg)

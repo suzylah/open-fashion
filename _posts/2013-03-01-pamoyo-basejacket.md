@@ -9,4 +9,4 @@ A pattern from Pamoyo
 
 Download PDF
 
-[Download svg](/patterns/pamoyo-basejacket/pamoyo_jacket5_fullsize.svg)
+[Download svg](/assets/patterns/pamoyo-basejacket/pamoyo_jacket5_fullsize.svg)
