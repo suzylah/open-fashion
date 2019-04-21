@@ -225,3 +225,4 @@ a, a:visited { color: #000; }
 @media screen and (min-width: 768px) { .grid { grid-template-columns: repeat(3, 1fr); }
   .feature { grid-column: 1 / span 2; }
   ._postHeight2 { grid-row: auto / span 2; } }
+@media screen and (min-width: 1200px) { .grid { grid-template-columns: repeat(4, 1fr); } }

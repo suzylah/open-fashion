@@ -7,7 +7,11 @@ postclass: postHeight2
 categories: resource
 ---
 
-The Openwear project started as a collaborative European project in 2010, aiming to optimize the ability of small producers to compete in the marketplace through collaboration and networking. Based on a belief that economic sustainability can come from manufacturing garments in a way that is highly creative and that keeps prices low without exploitation. This vision is described in the OpenWear license: OpenWear is an open brand … a type of collective trademark that recognizes the productive role of co-production, engages in strategies that aim at redistributing the values thus produced, and seeks organizational solutions that give co-producers a say in determining the overall governance of the brand [as well as] the overall social values toward which the brand should contribute.
+The Openwear project started as a collaborative European project in 2010, aiming to optimize the ability of small producers to compete in the marketplace through collaboration and networking. 
+
+<!--more--> 
+
+This vision is described in the OpenWear license: *OpenWear is an open brand … a type of collective trademark that recognizes the productive role of co-production, engages in strategies that aim at redistributing the values thus produced, and seeks organizational solutions that give co-producers a say in determining the overall governance of the brand [as well as] the overall social values toward which the brand should contribute.*
 
 The OpenWear project is an experiment with two key objectives. First, it attempts to define a new type of worker, occupying a middle ground between fashion designer and crafter-artisan. We use the term “network artisan,” meaning a worker who is a maker but also capable of setting up a small business. Second, our experiment involves open-sourcing the brand and distributing the manufacturing process. Our aim is to make social goals primary and business a means of achieving those goals.
 

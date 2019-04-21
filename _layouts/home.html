@@ -31,7 +31,7 @@ layout: default
           {{ post.excerpt }}
         {%- endif -%}
         <!--<span class="post-meta">{{ post.date | date: date_format }}</span>-->
-        <span class="post-meta">{{ post.categories }}</span>
+        {%- for category in post.categories -%}<span class="post-meta">{{ category }}</span>{%- endfor -%}
       </div>
       {%- endfor -%}
     </div>

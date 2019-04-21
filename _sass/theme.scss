@@ -47,6 +47,8 @@ a, a:visited {color:#000;}
     bottom: 1rem;
     right: 1.4em;
 }
+
+
 @media screen and (max-width:600px){
 	.site-title {font-size:18px;}
 	.site-nav {
@@ -80,6 +82,12 @@ a, a:visited {color:#000;}
 	.feature {grid-column: 1 / span 2;}
 
 	._postHeight2 {grid-row: auto / span 2;}
+}
+
+@media screen and (min-width: 1200px) {
+	.grid {
+		grid-template-columns: repeat(4,1fr);
+	}
 }
 
 

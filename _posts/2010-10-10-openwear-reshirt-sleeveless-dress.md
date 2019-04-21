@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Openwear Lookmap"
+title:  "Openwear Reshirt Sleeveless Dress"
 date:   2010-01-01 15:37:32 +0200
 featured-image: 
-categories: patterns
+categories: pattern
 ---
 
 Reshirt – Sleeveless Dress. A lookmap from Openwear collaborative collection #01, Forward to Basics.
