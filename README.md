@@ -2,9 +2,9 @@
 
 *what is this*. Short description.
 
-[Theme preview](https://opensource.fashion)
+[Opensource.Fashion](https://opensource.fashion)
 
-![minima theme preview](/screenshot.png)
+![visual](/open-fashion-visual.png)
 
 
 ## Contribution
