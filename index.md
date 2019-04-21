@@ -5,6 +5,3 @@
 layout: home
 ---
 
-<link href="https://fonts.googleapis.com/css?family=Roboto|Roboto+Mono:400,700" rel="stylesheet">
-
-  <div><img src="/assets/open-fashion-visual.png" /></div>

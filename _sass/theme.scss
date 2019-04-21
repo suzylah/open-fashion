@@ -1,0 +1,49 @@
+
+
+/*theme styles*/
+
+h1, h2, h3, .site-title, .site-title:visited {
+	text-transform:uppercase;
+	letter-spacing: 2px;
+	font-family:"Roboto Mono", monospace;
+	color:#000;
+}
+a, a:visited {color:#000;}
+
+.site-header {
+	background: $primary;
+	border-top-color: $primary-dark;
+	border-bottom:0;
+}
+
+.site-footer {
+	background: $secondary;
+	border-top:0;
+}
+
+.footer-col-wrapper {color:#000;}
+
+
+.grid { display:grid; grid-gap: 30px;}
+
+.item {
+	background: #fff;
+	padding: 1rem 1.4rem;
+}
+
+.thumbnail {   
+	margin: -1.4rem;
+    margin-bottom: 1rem;
+}
+
+@media screen and (min-width:768px) {
+	.grid {
+		grid-template-columns: repeat(3,1fr);
+	}
+	
+	.feature {grid-column: 1 / span 2;}
+
+	._postHeight2 {grid-row: auto / span 2;}
+}
+
+
