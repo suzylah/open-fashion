@@ -11,8 +11,6 @@ The book Libro de Geometría, Práctica y Traça, written in 1589 by Juan de Alc
 
 <!--more--> 
 
-</div>
-
 <div class="grid" markdown="1">
 ![Juan de Alcega - Libro de Geometría, Práctica y Traça](/assets/patterns/juan-de-alcega/SH812.jpeg)
 
